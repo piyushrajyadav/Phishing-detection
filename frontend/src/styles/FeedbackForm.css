@@ -1,0 +1,27 @@
+.feedback-form-container {
+    margin-top: 20px;
+  }
+  
+  .feedback-textarea {
+    width: 80%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    margin-right: 10px;
+    resize: vertical;
+  }
+  
+  .feedback-submit-btn {
+    background: #72e3ff;
+    color: #1a1a1d;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .feedback-submit-btn:hover {
+    background: #00bcd4;
+  }
+  

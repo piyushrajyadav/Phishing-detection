@@ -1,0 +1,25 @@
+.results-display {
+    margin-top: 20px;
+  }
+  
+  .results-display h2 {
+    color: #72e3ff;
+  }
+  
+  .result {
+    padding: 15px;
+    font-size: 1.5rem;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  
+  .phishing {
+    background-color: #ff4d4d;
+    color: white;
+  }
+  
+  .legit {
+    background-color: #72ff6b;
+    color: white;
+  }
+  

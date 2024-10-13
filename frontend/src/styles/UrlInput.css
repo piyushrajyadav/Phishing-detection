@@ -1,0 +1,26 @@
+.url-input-container {
+    margin: 20px 0;
+  }
+  
+  .url-input-field {
+    width: 80%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    margin-right: 10px;
+  }
+  
+  .submit-btn {
+    background: #72e3ff;
+    color: #1a1a1d;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background: #00bcd4;
+  }
+  
